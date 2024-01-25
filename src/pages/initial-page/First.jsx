@@ -1,10 +1,13 @@
 import React from "react";
+import background from '../../assets/infernal.jpg';
+import './First.css';
 
 const First = () => {
     return (
-        <>
-        <p>This houses the first riddle</p>
-        </>
+        <div className='bg'>
+        <img src={background} 
+        style={{backgroundSize: 'cover', backgroundRepeat: 'no-repeat', backgroundPosition: 'center', height: '100vh', width: '100vw'}} />
+        </div>
     )
 }
 
