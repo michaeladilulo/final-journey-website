@@ -4,7 +4,7 @@ import './FirstRiddle.css';
 const FirstRiddle = () => {
     return (
         <div className="first-riddle-container">
-        <h2 className="first-riddle">
+        <h1 className="first-riddle">
             <span>I </span>
             <span>dance </span>
             <span>in </span>
@@ -34,8 +34,8 @@ const FirstRiddle = () => {
             <span>I </span>
             <span>am </span>
             <span>the </span>
-            <span>_____________.</span>
-            </h2>
+            <span>???</span>
+            </h1>
         </div>
     )
 }

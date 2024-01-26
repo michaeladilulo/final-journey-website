@@ -10,7 +10,7 @@ const First = () => {
             <FirstRiddle />
             <FirstRiddleInput />
         <img src={background} 
-        style={{backgroundSize: 'cover', backgroundRepeat: 'no-repeat', backgroundPosition: 'center', height: '100vh', width: '100vw', filter: 'brightness(50%)'}} />
+        style={{backgroundSize: 'cover', backgroundRepeat: 'no-repeat', backgroundPosition: 'center', height: '100vh', width: '100vw', filter: 'brightness(45%)'}} />
         </div>
     )
 }

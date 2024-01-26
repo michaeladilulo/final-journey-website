@@ -6,7 +6,7 @@
 
 .first-riddle-input {
     position: absolute;
-    top: 60%;
+    top: 63.5%;
     z-index: 2;
     padding: 10px;
     border-radius: 20px;
@@ -15,6 +15,8 @@
     box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.3);
     background-color: rgba(0, 0, 0, 0.5);
     color: #FF0000;
+    font-size: 17px;
+    font-family: 'Poppins';
 }
 
 .first-riddle-input:focus {
