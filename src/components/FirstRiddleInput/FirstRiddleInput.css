@@ -1,0 +1,22 @@
+.first-riddle-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.first-riddle-input {
+    position: absolute;
+    top: 60%;
+    z-index: 2;
+    padding: 10px;
+    border-radius: 20px;
+    min-width: 20%;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #FF0000;
+}
+
+.first-riddle-input:focus {
+    outline: none;
+}
