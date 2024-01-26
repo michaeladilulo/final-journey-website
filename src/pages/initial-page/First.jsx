@@ -1,7 +1,7 @@
 import React from "react";
 import background from '../../assets/infernal.jpg';
 import FirstRiddle from '../../components/FirstRiddle/FirstRiddle';
-import FirstRiddleForm from '../../components/FirstRiddleInput/FirstRiddleForm';
+import FirstRiddleForm from '../../components/FirstRiddleForm/FirstRiddleForm';
 import './First.css';
 
 const First = () => {
