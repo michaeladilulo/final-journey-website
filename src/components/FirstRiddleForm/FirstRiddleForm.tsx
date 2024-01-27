@@ -23,7 +23,7 @@ const FirstRiddleForm = () => {
         <div className="first-riddle-container">
           <input className="first-riddle-input" type="text" value={answer} onChange={(e) => setAnswer(e.target.value)}/>
         </div>
-          <button type="submit">Submit</button>
+          <button type="submit" className='first-riddle-button'>Submit</button>
       </form>
     )
 }

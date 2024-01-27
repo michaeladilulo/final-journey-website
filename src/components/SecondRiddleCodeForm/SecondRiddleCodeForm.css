@@ -1,10 +1,10 @@
-.first-riddle-container {
+.second-code-riddle-container {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.first-riddle-input {
+.second-code-riddle-input {
     position: absolute;
     top: 63.5%;
     z-index: 2;
@@ -19,11 +19,11 @@
     font-family: 'Poppins';
 }
 
-.first-riddle-input:focus {
+.second-code-riddle-input:focus {
     outline: none;
 }
 
-.first-riddle-button {
+.second-code-riddle-button {
     position: absolute;
     z-index: -2;
     background-color: transparent;
