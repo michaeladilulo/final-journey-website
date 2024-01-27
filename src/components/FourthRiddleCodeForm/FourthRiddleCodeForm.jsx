@@ -11,7 +11,7 @@ const FourthRiddleCodeForm = () => {
         event.preventDefault();
         const submittedAnswer = answer.toLowerCase();
 
-        const shouldNavigate = submittedAnswer === 'k*-}esr;pyl8?3djsmqfn2';
+        const shouldNavigate = submittedAnswer === 'k*-}esr;py78?3djsmqfn2';
 
         setAnswer("");
 
