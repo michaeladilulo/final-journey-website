@@ -4,7 +4,7 @@ import './SecondRiddleCode.css';
 const SecondRiddleCode = () => {
     return (
         <div className="second-code-riddle-container">
-        <h3 className="second-code-riddle">
+        <h2 className="second-code-riddle">
             <span>Congratulations, </span>
             <span>you </span>
             <span>have </span>
@@ -14,7 +14,7 @@ const SecondRiddleCode = () => {
             <span>riddle's </span>
             <span>code. </span>
             <span>The </span>
-            <span>Infernal </span>
+            <span className="infernal-word-color">Infernal </span>
             <span>Crown, </span>
             <span>the </span>
             <span>key, </span>
@@ -66,7 +66,7 @@ const SecondRiddleCode = () => {
             <span>are </span>
             <span>your </span>
             <span>knack. </span>
-            </h3>
+            </h2>
         </div>
     )
 }

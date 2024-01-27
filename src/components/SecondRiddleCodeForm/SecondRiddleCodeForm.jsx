@@ -11,7 +11,7 @@ const SecondRiddleCodeForm = () => {
         event.preventDefault();
         const submittedAnswer = answer.toLowerCase();
 
-        const shouldNavigate = submittedAnswer === 'WjC:+wD4a%Re{,Q';
+        const shouldNavigate = submittedAnswer === 'wjc:+wd4a%re{,q';
 
         setAnswer("");
 
