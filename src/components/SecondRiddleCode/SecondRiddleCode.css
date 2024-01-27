@@ -220,6 +220,50 @@
     animation: fade-in 2s 14.9s forwards cubic-bezier(0.11, 0, 0.5, 0);
   }
 
+  span:nth-child(51) {
+    animation: fade-in 2s 15.2s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(52) {
+    animation: fade-in 2s 15.5s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(53) {
+    animation: fade-in 2s 15.8s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(54) {
+    animation: fade-in 2s 16.1s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(55) {
+    animation: fade-in 2s 16.4s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(56) {
+    animation: fade-in 2s 16.7s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(57) {
+    animation: fade-in 2s 17s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(58) {
+    animation: fade-in 2s 17.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(59) {
+    animation: fade-in 2s 17.6s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(60) {
+    animation: fade-in 2s 17.9s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(61) {
+    animation: fade-in 2s 18.2s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
   
   
   @keyframes fade-in {
