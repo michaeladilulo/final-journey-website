@@ -139,6 +139,88 @@
   span:nth-child(30) {
     animation: fade-in 2s 8.9s forwards cubic-bezier(0.11, 0, 0.5, 0);
   }
+
+  span:nth-child(31) {
+    animation: fade-in 2s 9.2s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(32) {
+    animation: fade-in 2s 9.5s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(33) {
+    animation: fade-in 2s 9.8s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(34) {
+    animation: fade-in 2s 10.1s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(35) {
+    animation: fade-in 2s 10.4s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(36) {
+    animation: fade-in 2s 10.7s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(37) {
+    animation: fade-in 2s 11s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(38) {
+    animation: fade-in 2s 11.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(39) {
+    animation: fade-in 2s 11.6s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(40) {
+    animation: fade-in 2s 11.9s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(41) {
+    animation: fade-in 2s 12.2s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(42) {
+    animation: fade-in 2s 12.5s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(43) {
+    animation: fade-in 2s 12.8s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(44) {
+    animation: fade-in 2s 13.1s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(45) {
+    animation: fade-in 2s 13.4s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(46) {
+    animation: fade-in 2s 13.7s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(47) {
+    animation: fade-in 2s 14s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(48) {
+    animation: fade-in 2s 14.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(49) {
+    animation: fade-in 2s 14.6s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  span:nth-child(50) {
+    animation: fade-in 2s 14.9s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  
   
   @keyframes fade-in {
     100% {

@@ -4,38 +4,69 @@ import './SecondRiddleCode.css';
 const SecondRiddleCode = () => {
     return (
         <div className="second-code-riddle-container">
-        <h1 className="second-code-riddle">
-            <span>I </span>
-            <span>dance </span>
+        <h3 className="second-code-riddle">
+            <span>Congratulations, </span>
+            <span>you </span>
+            <span>have </span>
+            <span>cracked </span>
+            <span>the </span>
+            <span>initial </span>
+            <span>riddle's </span>
+            <span>code. </span>
+            <span>The </span>
+            <span>Infernal </span>
+            <span>Crown, </span>
+            <span>the </span>
+            <span>key, </span>
             <span>in </span>
             <span>the </span>
-            <span>shadows, </span>
-            <span>born </span>
-            <span>of </span>
-            <span>fire's </span>
-            <span>breath, </span>
-            <span>A </span>
-            <span>realm </span>
-            <span>of </span>
-            <span>torment, </span>
-            <span>harbringer </span>
-            <span>of </span>
-            <span>death. </span>
-            <span>Within </span>
+            <span>title </span>
+            <span>it </span>
+            <span>lies, </span>
+            <span>more </span>
+            <span>riddles </span>
+            <span>ahead </span>
+            <span>with </span>
+            <span>mystery </span>
+            <span>that </span>
+            <span>multiplies. </span>
+            <br /> 
+            <span>Phone </span>
+            <span>Sherlock </span>
+            <span>Watson </span>
+            <span>for </span>
+            <span>the </span> 
+            <span>next </span>
+            <span>clue, </span>
+            <span>dancing </span>
+            <span>with </span>
+            <span>glee, </span>
+            <span>he </span>
+            <span>holds </span>
             <span>the </span>
-            <span>depths, </span>
-            <span>my </span>
-            <span>flames </span>
-            <span>do </span>
-            <span>swirl. </span>
-            <span>Guess </span>
-            <span>my </span>
-            <span>name, </span>
-            <span>I </span>
-            <span>am </span>
-            <span>the </span>
-            <span>???</span>
-            </h1>
+            <span>key </span> 
+            <span>for </span>
+            <span>you. </span>
+            <span>Once </span>
+            <span>you </span>
+            <span>advance </span>
+            <span>there </span>
+            <span>is </span>
+            <span>no </span>
+            <span>turning </span>
+            <span>back, </span> {/* 50 */}
+            <span>so </span>
+            <span>strap </span>
+            <span>up </span>
+            <span>those </span>
+            <span>boot </span>
+            <span>laces, </span>
+            <span>for </span>
+            <span>riddles </span>
+            <span>are </span>
+            <span>your </span>
+            <span>knack. </span>
+            </h3>
         </div>
     )
 }
