@@ -1,0 +1,30 @@
+.fourth-riddle-code-riddle-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fourth-riddle-code-riddle-input {
+    position: absolute;
+    top: 68.5%;
+    z-index: 2;
+    padding: 10px;
+    border-radius: 20px;
+    min-width: 20%;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #FF0000;
+    font-size: 17px;
+    font-family: 'Poppins';
+}
+
+.fourth-riddle-code-riddle-input:focus {
+    outline: none;
+}
+
+.fourth-riddle-code-riddle-button {
+    position: absolute;
+    z-index: -2;
+    background-color: transparent;
+}
